@@ -4,13 +4,17 @@ body {
     background-size: cover;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     text-align: left;
+    width: 1127px;
+    padding: 5px, 10px;
+    text-indent: 6px;
+    background-position: 0% 0%;
 }
 
 .CSStest {
     background-color: #FFFFFF;
     height: 136px;
     border-radius: 20px;
-    width: 1205px;
+    width: 1150px;
     text-align: center;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 }
