@@ -14,3 +14,20 @@ body {
     text-align: center;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 }
+.subtitles {
+    text-align: center;
+    font-style: normal;
+    font-size: 20px;
+    background-color: #FFFFFF;
+    width: 136px;
+    height: 39px;
+    border-radius: 20px;
+    text-indent: 0px;
+    line-height: 35px;
+}
+#bigger {
+    height: 42px;
+    width: 156px;
+    text-indent: 1px;
+    line-height: 40px;
+}
