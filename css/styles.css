@@ -19,12 +19,15 @@ body {
     text-align: center;
     font-style: normal;
     font-size: 20px;
-    width: 134px;
-    height: 39px;
+    width: 151px;
+    height: 37px;
     border-radius: 20px;
-    text-indent: 0px;
+    text-indent: -4px;
     line-height: 35px;
     background-image: url(../images/sea-edge-79ab30e2.png);
+    color: #000000;
+    padding-left: 0px;
+    margin-left: 10px;
 }
 #bigger {
     height: 42px;
@@ -39,14 +42,21 @@ body {
 }
 
 div div img {
-   
-    
+    margin-left: 10px;    
 }
 .background {
-    background-color: #FFFFFF;
+    background-color: #000000;
     padding-top: 4px;
     margin-left: 2px;
     margin-right: 2px;
     padding-bottom: 5px;
     width: 1150px;
+    color: #FFFFFF;
+}
+
+p {
+    margin-left: 4px;
+}
+.background #underlined {
+    text-decoration: underline;
 }
