@@ -5,29 +5,26 @@ body {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     text-align: left;
     width: 1127px;
-    padding: 5px, 10px;
+    padding: 5px, 5px;
     text-indent: 6px;
     background-position: 0% 0%;
 }
 
 .CSStest {
-    background-color: #FFFFFF;
-    height: 136px;
-    border-radius: 20px;
-    width: 1150px;
     text-align: center;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    padding-top: 0px;
 }
 .subtitles {
     text-align: center;
     font-style: normal;
     font-size: 20px;
-    background-color: #FFFFFF;
-    width: 136px;
+    width: 134px;
     height: 39px;
     border-radius: 20px;
     text-indent: 0px;
     line-height: 35px;
+    background-image: url(../images/sea-edge-79ab30e2.png);
 }
 #bigger {
     height: 42px;
@@ -41,8 +38,15 @@ body {
     font-size: 27px;
 }
 
-
 div div img {
-    border-radius: 20px;
+   
     
+}
+.background {
+    background-color: #FFFFFF;
+    padding-top: 4px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-bottom: 5px;
+    width: 1150px;
 }
