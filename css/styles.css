@@ -16,7 +16,7 @@ body {
     text-align: center;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-size: 30px; 
-    padding-top: 0px;
+    padding: 10px;
 }
 
 .subtitles {
@@ -49,6 +49,7 @@ div div img {
     background-color: #000000;
     margin-left: 5px;
     margin-right: 5px;
+	margin-bottom: 5px;
     padding: 10px;
     width: 1150px;
     color: #FFFFFF;
@@ -62,9 +63,9 @@ p {
 
 .my-container {
     border: 2px solid black;
-    margin-left: 10px;
+    margin-left: 5px;
     width: 1150px;
-    margin-right: 10px;
+    margin-right: 5px;
     padding: 5px;
     margin-bottom: 10px;
 }
