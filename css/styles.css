@@ -14,8 +14,8 @@ body {
 
 .CSStest {
     text-align: center;
-    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-	font-size: 30px; 
+    font-family:'Oswald', sans-serif;
+	font-size: 40px; 
     padding: 10px;
 }
 
@@ -23,7 +23,7 @@ body {
     text-align: center;
     font-style: normal;
     font-size: 20px;
-    width: 151px;
+    width: 150px;
     height: 37px;
     border-radius: 20px;
     text-indent: -4px;
@@ -31,6 +31,7 @@ body {
     background-image: url(../images/sea-edge-79ab30e2.png);
     color: #000000;
     margin-left: 10px;
+	margin-top: 10px
 }
 #bigger .subtitles {
     height: 42px;
@@ -43,15 +44,14 @@ div div img {
     border-radius: 20px;
     margin-left: 10px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .background {
     background-color: #000000;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
 	margin-bottom: 5px;
     padding: 10px;
-    width: 1150px;
     color: #FFFFFF;
     right: 0px;
     display: center;
@@ -63,9 +63,8 @@ p {
 
 .my-container {
     border: 2px solid black;
-    margin-left: 5px;
-    width: 1150px;
-    margin-right: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
     padding: 5px;
     margin-bottom: 10px;
 }
